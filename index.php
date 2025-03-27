@@ -1,4 +1,5 @@
 <?php 
+//versao servidor
 
 //Salve esse arquivo em algum diretorio onde tenha o PHP
 //Neste caso eu salvei em /home/sistema/index.php
